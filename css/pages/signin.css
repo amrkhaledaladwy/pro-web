@@ -78,6 +78,15 @@ button.btn-primary {
   padding: 10px;
   font-size: 1rem;
   border-radius: 10px;
+  background: #0d6efd;
+  color: #fff;
+  border: none;
+  margin-top: 20px;
+  transition: 0.3s;
+  /*علشان اخلي الكلمه في منتصف الصوره*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
@@ -90,3 +99,4 @@ footer span {
   color: #0d6efd;
   font-weight: bold;
 }
+
